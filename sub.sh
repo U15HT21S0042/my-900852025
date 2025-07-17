@@ -11,4 +11,5 @@ difference=$((num1 - num2))
 
 # Display the result
 echo "The difference between $num1 and $num2 is: $difference"
-echo "hii this is from substaction file"
+echo "hii this is from substac tion filennbmmmnnbhgb"
+
