@@ -1,1 +1,1 @@
-echo"this is maninga y"
+echo"this is Maninga A Y"
